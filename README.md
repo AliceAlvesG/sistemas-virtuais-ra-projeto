@@ -1,4 +1,4 @@
-# 🎮 Cybinho AR Security Game  
+# 🎮 AR Security Game  
 
 📚 **Disciplina:** Optativa - Introdução a Sistemas Virtuais e Aumentados  
 👨‍🏫 **Professores:** Lázaro Vinícius de Oliveira Lima | Cristiane Jorge de Lima Bonfim  
