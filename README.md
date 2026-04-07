@@ -36,7 +36,7 @@ A proposta incorpora elementos característicos dos *serious games*, ao integrar
 ---
 
 ## 🎨 Protótipo  
-🔗 [Acessar protótipo no Figma](https://www.figma.com/design/spv9TSCGmPZ1BMWqmhyRcq/Projeto-de-RA---Ciberseguran%C3%A7a?node-id=0-1&t=o3d9Xc2Mej90hR0q-1)
+🔗 [Acessar protótipo no Figma]([https://www.figma.com/design/spv9TSCGmPZ1BMWqmhyRcq/Projeto-de-RA---Ciberseguran%C3%A7a?node-id=0-1&t=o3d9Xc2Mej90hR0q-1](https://www.figma.com/design/a5ZW4Li1mfEqs9SyOQAb6R/Projeto---RA---Ciberseguran%C3%A7a?node-id=0-1&p=f&t=HGvbvJbvyZiZ11A0-0))
 
 ---
 
